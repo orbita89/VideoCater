@@ -2,9 +2,9 @@
   {
     "location": "China",
     "title": "Paddy Field",
-    "url_1080p": "file:///sdcard/0/Download/10480-224857514.mp4",
-    "url_1080p_hdr": "file:///sdcard/0/Download/10480-224857514.mp4",
-    "url_4k": "file:///sdcard/0/Download/10480-224857514.mp4",
-    "url_4k_hdr": "file:///sdcard/0/Download/10480-224857514.mp4"
+    "url_1080p": "http://192.168.159.100:12345/10480-224857514.mp4",
+    "url_1080p_hdr": "http://192.168.159.100:12345/10480-224857514.mp4",
+    "url_4k": "http://192.168.159.100:12345/10480-224857514.mp4",
+    "url_4k_hdr": "http://192.168.159.100:12345/10480-224857514.mp4"
   }
 ]
