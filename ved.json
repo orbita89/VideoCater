@@ -2,22 +2,6 @@
   {
     "location": "China",
     "title": "Paddy Field",
-    "url_1080p": "http://192.168.159.153:12345/10480-224857514.mov",
-    "url_1080p_hdr": "http://192.168.159.153:12345/10480-224857514.mov",
-    "url_4k": "http://192.168.159.153:12345/10480-224857514.mov",
-    "url_4k_hdr": "http://192.168.159.153:12345/10480-224857514.mov"
-  },
-  {
-    "location": "China",
-    "title": "Paddy Field",
-    "url_1080p": "http://192.168.159.153:12345/213616.mov",
-    "url_1080p_hdr": "http://192.168.159.153:12345/213616.mov",
-    "url_4k": "http://192.168.159.153:12345/213616.mov",
-    "url_4k_hdr": "http://192.168.159.153:12345/213616.mov"
-  },
-  {
-    "location": "China",
-    "title": "Paddy Field",
     "url_1080p": "http://192.168.159.153:12345/comp_C004_C003_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
     "url_1080p_hdr": "http://192.168.159.153:12345/comp_C004_C003_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
     "url_4k": "http://192.168.159.153:12345/comp_C004_C003_PS_v01_SDR_PS_20180925_SDR_2K_HEVC.mov",
